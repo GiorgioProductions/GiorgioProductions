@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GiorgioProductions)](https://github.com/anuraghazra/github-readme-stats)
+![GiorgioProductions' GitHub stats](https://github-readme-stats.vercel.app/api?username=GiorgioProductions&hide=contribs,prs)
 
 <!--
 **GiorgioProductions/GiorgioProductions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
